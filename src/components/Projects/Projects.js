@@ -56,7 +56,7 @@ function Projects() {
       title="9TeenBasic (E-commerce Jewellery Website)"
       description="A frontend e-commerce website designed for a jewellery shop with product listings, UI-focused cart design, and responsive layout."
       tech="HTML, CSS, JavaScript"
-      status="Concept / UI"
+      status="Completed / UI"
     />
   </Col>
 
