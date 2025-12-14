@@ -23,27 +23,28 @@ function Home2() {
               <i>
                 <b className="purple">
                   {" "}
-                  JavaScript, C++, Rust, Node.js, and Java{" "}
+                  JavaScript, React.js, HTML5, CSS3, C++, Node.js, and SEO and Analytics{" "}
                 </b>
               </i>
-              — and I enjoy working across both backend and frontend stacks.
+              — and I enjoy working across frontend stacks. SEO and data-driven optimization to enhance site performance and search visibility.
               <br />
               <br />
               My key areas of interest include developing
               <i>
                 <b className="purple">
                   {" "}
-                  Web Applications, Blockchain Solutions,{" "}
+                  Web Applications, Web developement, SEO, USer engagement,and data insights{" "}
                 </b>
               </i>
               and exploring new ways to bridge on-chain and off-chain systems.
               <br />
               <br />
               Whenever possible, I love building projects with
-              <b className="purple"> Node.js </b> and modern frameworks like{" "}
+              <b className="purple"> Node.js </b> and modern frameworks like {" "}
               <i>
                 <b className="purple">React.js</b> and{" "}
-                <b className="purple">Next.js</b>.
+                <b className="purple">Next.js</b> 
+                  with a strong focus on SEO-friendly architecture, performance optimization, and analytics-driven growth.
               </i>
             </p>
           </Col>
